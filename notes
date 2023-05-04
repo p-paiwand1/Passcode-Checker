@@ -1,0 +1,13 @@
+
+  // Passcode Criteria
+  // 1  code 1 equals 10 and code 2 equals 20 or code 3 equals 30
+  // 2 code 1 equals 10 and code 2 equals 20 or code 3 equals 30 
+  // 3 code 1, code 2 and code 3 are all positive
+  // 4 at least one of the codes is negative
+  // 5 code 1, code 2 and code 3 all equal 7
+  // 6 none of the codes equal zero
+  // 7 code 1, code 2 and code 3 are all the same number
+  // 8 code 3 is greater than either code 1 or code 2 
+  // 9 code 3 is greater than both code 1 and code 2 
+  // 10 code 2 is between code 1 and code 3 
+  
